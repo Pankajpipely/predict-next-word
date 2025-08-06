@@ -1,0 +1,4 @@
+streamlit
+tensorflow
+numpy
+pickle5  # If you are using pickle
