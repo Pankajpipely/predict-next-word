@@ -2,3 +2,7 @@ streamlit
 tensorflow
 numpy
 pickle  # If you are using pickle
+nltk
+pandas
+scikit-learn
+
